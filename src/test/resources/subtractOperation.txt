@@ -1,0 +1,2 @@
+subtract 5
+apply 3
